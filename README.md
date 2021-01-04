@@ -14,6 +14,8 @@ https://www.webtrickshome.com/faq/how-to-display-uploaded-image-in-html-using-ja
 
 https://stackoverflow.com/questions/7650587/using-javascript-to-display-a-blob/44069294
 
+https://github.com/mmackenzie-syd/cropperjs-image-resize/blob/master/screencapture-webtrickshome-faq-how-to-display-uploaded-image-in-html-using-javascript-2021-01-04-16_51_16.pdf
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
