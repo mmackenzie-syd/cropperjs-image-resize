@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/7650587/using-javascript-to-display-a-blob/4
 
 https://github.com/mmackenzie-syd/cropperjs-image-resize/blob/master/screencapture-webtrickshome-faq-how-to-display-uploaded-image-in-html-using-javascript-2021-01-04-16_51_16.pdf
 
-## Run App
+### Run App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -25,8 +25,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Screenshot
+### Screenshot:
 
-https://github.com/mmackenzie-syd/cropperjs-image-resize/blob/master/screenshot.png
+![alt text](https://github.com/mmackenzie-syd/cropperjs-image-resize/blob/master/screenshot.png)
 
 
