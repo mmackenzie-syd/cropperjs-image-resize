@@ -69,8 +69,3 @@ function App() {
 
 export default App;
 
-
-// https://github.com/fengyuanchen/cropperjs
-// https://github.com/fengyuanchen/cropperjs#getcroppedcanvasoptions
-// https://www.webtrickshome.com/faq/how-to-display-uploaded-image-in-html-using-javascript
-// https://stackoverflow.com/questions/7650587/using-javascript-to-display-a-blob/44069294
