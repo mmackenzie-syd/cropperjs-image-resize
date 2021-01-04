@@ -4,7 +4,7 @@ Uploads and resizes an image client-side before sending to the server.
 
 The initial image can be any size but is required to be of aspect ratio 1 (square) using any image editor.
 
-References:
+### References:
 
 https://github.com/fengyuanchen/cropperjs
 
@@ -16,14 +16,17 @@ https://stackoverflow.com/questions/7650587/using-javascript-to-display-a-blob/4
 
 https://github.com/mmackenzie-syd/cropperjs-image-resize/blob/master/screencapture-webtrickshome-faq-how-to-display-uploaded-image-in-html-using-javascript-2021-01-04-16_51_16.pdf
 
+## Run App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Screenshot
 
+https://github.com/mmackenzie-syd/cropperjs-image-resize/blob/master/screenshot.png
 
 
